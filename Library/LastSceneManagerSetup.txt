@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scene/ball.unity
+  isLoaded: 1
+  isActive: 1
